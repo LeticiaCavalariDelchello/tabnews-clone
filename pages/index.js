@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olhando a partir disso, você acha que da certo?</h1>
+    return <h1>Sua opinião REAL. Você continuaria isso aqui, ou focaria em outra parte?</h1>
 }
 
 export default Home;
